@@ -1,1 +1,1 @@
-# Trail-of-Cthulhu-QuickShock-Hack
+# Trail of Cthulhu QuickShock Hack
