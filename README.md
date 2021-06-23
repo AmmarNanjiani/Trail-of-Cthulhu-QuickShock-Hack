@@ -3,7 +3,7 @@ The newest iteration of GUMSHOE, QuickShock GUMSHOE, debuted with *The Yellow Ki
 
 This document is meant to describe changes from the rules in the *Trail of Cthulhu* rulebook. The descriptions for new mechanics are reproduced from GUMSHOE SRD, occasionally with minor changes to suit *Trail of Cthulhu*. 
 
-This is not a replacement for the original rules, but a supplement. You will need a copy of the original rules in order to use this hack. If a mechanic isn’t addressed here, assume it works like the original rules. 
+This is not a replacement for the original rules, but a supplement. You will need a copy of the original rules in order to use this hack.
 
 [Purchase *Trail of Cthulhu* from Pelgrane Press](https://site.pelgranepress.com/index.php/category/products/trail-of-cthulhu/).
 
